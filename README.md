@@ -7,15 +7,14 @@
 
 ![Logo](https://github.com/ytisf/theZoo/raw/gh-pages/MalDB-Logo-Thumb.png)
 
-theZoo is a project created to make the possibility of malware analysis open and available to the public. Since we have found out that almost all versions of malware are very hard to come by in a way which will allow analysis, we have decided to gather all of them for you in an accessible and safe way.
-theZoo was born by Yuval tisf Nativ and is now maintained by Shahak Shalev.
+theZoo is a project created to make the possibility of malware analysis open and available to the public. Since we have found that almost all versions of malware are very hard to come by in a way that allows analysis, we have decided to gather all of them for you in an accessible and safe way. theZoo was born by Yuval 'tisf' Nativ and is now maintained by Shahak Shalev.
 
 **theZoo is open and welcoming visitors!**
 
-If you are about to interact with our community please make sure to read our `CODE-OF-CONDUCT.md` prior to doing so. If you plan to contribute, first - thank you. However, do make sure to follow the standards on `CONTRIBUTING.md`.
+If you are about to interact with our community, please make sure to read our CODE-OF-CONDUCT.md prior to doing so. If you plan to contribute, first - thank you. However, please make sure to follow the standards in CONTRIBUTING.md.
 
 ## Disclaimer
-theZoo's purpose is to allow the study of malware and enable people who are interested in malware analysis (or maybe even as a part of their job) to have access to live malware, analyse the ways they operate, and maybe even enable advanced and savvy  people to block specific malware within their own environment.
+theZoo's purpose is to allow the study of malware and enable people who are interested in malware analysis (or maybe even as a part of their job) to have access to live malware, analyze the ways they operate, and maybe even enable advanced and savvy people to block specific malware within their own environment.
 
 **Please remember that these are live and dangerous malware! They come encrypted and locked for a reason!  Do NOT run them unless you are absolutely sure of what you are doing! They are to be used only for educational purposes (and we mean that!) !!!**
 
